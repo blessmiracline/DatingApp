@@ -1,0 +1,14 @@
+C:\Users\danny\DatingApp.API\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.csprojAssemblyReference.cache
+C:\Users\danny\DatingApp.API\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.AssemblyInfoInputs.cache
+C:\Users\danny\DatingApp.API\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.AssemblyInfo.cs
+C:\Users\danny\DatingApp.API\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.csproj.CoreCompileInputs.cache
+C:\Users\danny\DatingApp.API\DatingApp.API\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\danny\DatingApp.API\DatingApp.API\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\danny\DatingApp.API\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.deps.json
+C:\Users\danny\DatingApp.API\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.runtimeconfig.json
+C:\Users\danny\DatingApp.API\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.runtimeconfig.dev.json
+C:\Users\danny\DatingApp.API\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.dll
+C:\Users\danny\DatingApp.API\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.pdb
+C:\Users\danny\DatingApp.API\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.dll
+C:\Users\danny\DatingApp.API\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.pdb
+C:\Users\danny\DatingApp.API\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.genruntimeconfig.cache
